@@ -1,10 +1,10 @@
-Hedgecoin (temp working name)
+<h1>Hedgecoin (temp working name)</h1>
 
 
-Purpose of the app
+<h2>Purpose of the app</h2>
 
-Feature set
+<h2>Feature set</h2>
 
-Application views
+<h2>Application views</h2>
 
-Domain modeling
+<h2>Domain modeling</h2>
