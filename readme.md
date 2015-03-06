@@ -2,7 +2,7 @@
 
 
 <h2>Purpose of the app</h2>
-Allow people to effortlesly invest in crypto currencies and not just bitcoin.
+Allow people to effortlessly invest in crypto currencies and not just bitcoin.
 
 <h2>Feature set</h2>
 MVP1
