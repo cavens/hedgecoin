@@ -2,3 +2,4 @@
 
 http://ether.fund/
 Look into POC8
+https://dappsforbeginners.wordpress.com/ !!!!!!
