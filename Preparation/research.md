@@ -87,7 +87,7 @@ Connect to Cryptsy API
 https://github.com/hsharrison/python-cryptsy
 
 
-<h2>Chain.com</h1>
+<h2>Chain.com</h2>
 
 Todo:
 POST security
