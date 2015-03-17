@@ -37,34 +37,34 @@ HEDGECOIN
 
 BUY
 
-5 # Request/save eth address
+5 Request/save eth address
 
-1 # Listen to bitcoin address (blockchain socket API), with time-out (save/drop)
+1 Listen to bitcoin address (blockchain socket API), with time-out (save/drop)
 
-2 # Open buy order after x confirmations
+2 Open buy order after x confirmations
 
-3 # Check when buy order is completed
+3 Check when buy order is completed
 
-4 # Calculate # HGC to send
+4 Calculate # HGC to send
 
-8 # Send HGC
+8 Send HGC
 
 
 SELL
 
-# Request/save btc address
+Request/save btc address
 
-6 # Listen to ethereum address
+6 Listen to ethereum address
 
-# Calculate % of total HDG
+Calculate % of total HDG
 
-# Open sell orders for corresponding % of portfolio
+Open sell orders for corresponding % of portfolio
 
-# Check when (all) sell orders are completed
+Check when (all) sell orders are completed
 
-# Calculate # BTC to send
+Calculate # BTC to send
 
-# Send HGC
+Send HGC
 
 
 
