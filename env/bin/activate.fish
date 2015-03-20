@@ -32,11 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/action/workspace/Hedgecoin/env"
-=======
-set -gx VIRTUAL_ENV "/home/action/main/env"
->>>>>>> c8d3823a58e072eb1d3184a50f93b02751ad0861
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

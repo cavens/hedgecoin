@@ -7,11 +7,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-<<<<<<< HEAD
 setenv VIRTUAL_ENV "/home/action/workspace/Hedgecoin/env"
-=======
-setenv VIRTUAL_ENV "/home/action/main/env"
->>>>>>> c8d3823a58e072eb1d3184a50f93b02751ad0861
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
