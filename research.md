@@ -142,3 +142,36 @@ def notifications():
 
 
 
+<<<<<<< HEAD
+=======
+Connect to Blockchain.info API
+https://github.com/blockchain/api-v1-client-python
+
+
+<h2>Planning</h2>
+<ul>
+<li>Mockups - Done</li>
+<li>Research all tricky elements</li>
+<ul>
+<li>Listen to BTC address</li>
+<li>Open buy order after x confirmations</li>
+<li>Check when buy order is complete</li>
+<li>Listen to Ethereum address</li>
+<li>Create subcurrency contract</li>
+<li>Send HGC</li>
+</ul>
+<li>Rough prototype</li>
+<li>MVP1</li>
+<li>MVP2</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 9a962c126e778f4e17e19ba04be6d7a711b97498
