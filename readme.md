@@ -21,9 +21,10 @@ https://moqups.com/cavensio/cNwN7Cmb
 
 <h2>Domain modeling</h2>
 Table transactions
-	Ether address
-	BTC address
-	Amount received
+
+Ether address
+BTC address
+Amount received
 
 
 
@@ -51,3 +52,6 @@ Set up dev on local machine
 5. Send HGC to Eth address
 
 <h3>Sell</h3>
+
+
+tester
